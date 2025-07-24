@@ -29,7 +29,8 @@
           "id": 100001,
           "password": "123",
           "role": "teacher",
-          "name": "Mr. Smith"
+          "name": "Mr. Smith",
+          "schedule": null
         }
       ]
     },
@@ -62,7 +63,8 @@
           "id": 200002,
           "password": "123",
           "role": "teacher",
-          "name": "Ms. Clark"
+          "name": "Ms. Clark",
+          "schedule": null
         }
       ]
     }
