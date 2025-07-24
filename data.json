@@ -1,94 +1,164 @@
 [
   {
     "id": "528023",
+    "password": "123",
+    "name": "Jordan Wells",
     "role": "student",
-    "name": "Alex Johnson",
-    "schedule": {
-      "1": { "subject": "Math", "teacher": "Mr. Stone", "room": "101", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "English", "teacher": "Ms. Rose", "room": "102", "time": "9:00 AM - 9:50 AM" },
-      "3": { "subject": "Science", "teacher": "Dr. Reed", "room": "103", "time": "10:00 AM - 10:50 AM" },
-      "4": { "subject": "History", "teacher": "Mrs. Clark", "room": "104", "time": "11:00 AM - 11:50 AM" }
-    }
+    "grade": 9,
+    "schedule": [
+      { "name": "Math", "time": "8:00 - 8:50", "teacher": "Mr. Carter" },
+      { "name": "English", "time": "8:55 - 9:45", "teacher": "Ms. Lee" },
+      { "name": "Biology", "time": "9:50 - 10:40", "teacher": "Mr. Ford" },
+      { "name": "World History", "time": "10:45 - 11:35", "teacher": "Mrs. Green" },
+      { "name": "P.E.", "time": "11:40 - 12:30", "teacher": "Coach Hill" },
+      { "name": "Lunch", "time": "12:30 - 1:00", "teacher": "-" },
+      { "name": "Art", "time": "1:05 - 1:55", "teacher": "Ms. Lee" },
+      { "name": "Computer Science", "time": "2:00 - 2:50", "teacher": "Mr. Ford" },
+      { "name": "Study Hall", "time": "2:55 - 3:45", "teacher": "Mrs. Green" }
+    ]
   },
   {
-    "id": "528024",
+    "id": "530112",
+    "password": "123",
+    "name": "Liam Cruz",
     "role": "student",
-    "name": "Brianna Lee",
-    "schedule": {
-      "1": { "subject": "Math", "teacher": "Mr. Stone", "room": "101", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "Art", "teacher": "Ms. Gomez", "room": "201", "time": "9:00 AM - 9:50 AM" },
-      "3": { "subject": "Biology", "teacher": "Dr. Reed", "room": "103", "time": "10:00 AM - 10:50 AM" },
-      "4": { "subject": "PE", "teacher": "Coach Lane", "room": "Gym", "time": "11:00 AM - 11:50 AM" }
-    }
+    "grade": 10,
+    "schedule": [
+      { "name": "Algebra II", "time": "8:00 - 8:50", "teacher": "Mr. Carter" },
+      { "name": "Chemistry", "time": "8:55 - 9:45", "teacher": "Mr. Ford" },
+      { "name": "English II", "time": "9:50 - 10:40", "teacher": "Ms. Lee" },
+      { "name": "World Geography", "time": "10:45 - 11:35", "teacher": "Mrs. Green" },
+      { "name": "Lunch", "time": "11:40 - 12:10", "teacher": "-" },
+      { "name": "Photography", "time": "12:15 - 1:05", "teacher": "Ms. Lee" },
+      { "name": "Physics", "time": "1:10 - 2:00", "teacher": "Mr. Ford" },
+      { "name": "Programming", "time": "2:05 - 2:55", "teacher": "Mr. Ford" },
+      { "name": "Study Skills", "time": "3:00 - 3:50", "teacher": "Mrs. Green" }
+    ]
   },
   {
-    "id": "528025",
+    "id": "541902",
+    "password": "123",
+    "name": "Isabella Chen",
     "role": "student",
-    "name": "Carlos Reyes",
-    "schedule": {
-      "1": { "subject": "Chemistry", "teacher": "Dr. Reed", "room": "103", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "English", "teacher": "Ms. Rose", "room": "102", "time": "9:00 AM - 9:50 AM" },
-      "3": { "subject": "History", "teacher": "Mrs. Clark", "room": "104", "time": "10:00 AM - 10:50 AM" },
-      "4": { "subject": "Math", "teacher": "Mr. Stone", "room": "101", "time": "11:00 AM - 11:50 AM" }
-    }
+    "grade": 11,
+    "schedule": [
+      { "name": "Pre-Calc", "time": "8:00 - 8:50", "teacher": "Mr. Carter" },
+      { "name": "Literature", "time": "8:55 - 9:45", "teacher": "Ms. Lee" },
+      { "name": "US History", "time": "9:50 - 10:40", "teacher": "Mrs. Green" },
+      { "name": "AP Biology", "time": "10:45 - 11:35", "teacher": "Mr. Ford" },
+      { "name": "Lunch", "time": "11:40 - 12:10", "teacher": "-" },
+      { "name": "Design", "time": "12:15 - 1:05", "teacher": "Ms. Lee" },
+      { "name": "AP Physics", "time": "1:10 - 2:00", "teacher": "Mr. Ford" },
+      { "name": "Debate", "time": "2:05 - 2:55", "teacher": "Mrs. Green" },
+      { "name": "Calculus", "time": "3:00 - 3:50", "teacher": "Mr. Carter" }
+    ]
   },
   {
-    "id": "528026",
+    "id": "552100",
+    "password": "123",
+    "name": "Noah Patel",
     "role": "student",
-    "name": "Dana Smith",
-    "schedule": {
-      "1": { "subject": "Art", "teacher": "Ms. Gomez", "room": "201", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "Math", "teacher": "Mr. Stone", "room": "101", "time": "9:00 AM - 9:50 AM" },
-      "3": { "subject": "Science", "teacher": "Dr. Reed", "room": "103", "time": "10:00 AM - 10:50 AM" },
-      "4": { "subject": "English", "teacher": "Ms. Rose", "room": "102", "time": "11:00 AM - 11:50 AM" }
-    }
+    "grade": 12,
+    "schedule": [
+      { "name": "AP Calculus", "time": "8:00 - 8:50", "teacher": "Mr. Carter" },
+      { "name": "Creative Writing", "time": "8:55 - 9:45", "teacher": "Ms. Lee" },
+      { "name": "Economics", "time": "9:50 - 10:40", "teacher": "Mrs. Green" },
+      { "name": "AP Chemistry", "time": "10:45 - 11:35", "teacher": "Mr. Ford" },
+      { "name": "Lunch", "time": "11:40 - 12:10", "teacher": "-" },
+      { "name": "Web Dev", "time": "12:15 - 1:05", "teacher": "Mr. Ford" },
+      { "name": "Civics", "time": "1:10 - 2:00", "teacher": "Mrs. Green" },
+      { "name": "Advanced Art", "time": "2:05 - 2:55", "teacher": "Ms. Lee" },
+      { "name": "AP Stats", "time": "3:00 - 3:50", "teacher": "Mr. Carter" }
+    ]
   },
   {
-    "id": "528027",
+    "id": "530452",
+    "password": "123",
+    "name": "Sophia Nguyen",
     "role": "student",
-    "name": "Ethan Zhang",
-    "schedule": {
-      "1": { "subject": "History", "teacher": "Mrs. Clark", "room": "104", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "Art", "teacher": "Ms. Gomez", "room": "201", "time": "9:00 AM - 9:50 AM" },
-      "3": { "subject": "PE", "teacher": "Coach Lane", "room": "Gym", "time": "10:00 AM - 10:50 AM" },
-      "4": { "subject": "Science", "teacher": "Dr. Reed", "room": "103", "time": "11:00 AM - 11:50 AM" }
-    }
+    "grade": 10,
+    "schedule": [
+      { "name": "Geometry", "time": "8:00 - 8:50", "teacher": "Mr. Carter" },
+      { "name": "Biology", "time": "8:55 - 9:45", "teacher": "Mr. Ford" },
+      { "name": "English II", "time": "9:50 - 10:40", "teacher": "Ms. Lee" },
+      { "name": "World History", "time": "10:45 - 11:35", "teacher": "Mrs. Green" },
+      { "name": "Lunch", "time": "11:40 - 12:10", "teacher": "-" },
+      { "name": "Drawing", "time": "12:15 - 1:05", "teacher": "Ms. Lee" },
+      { "name": "Science Lab", "time": "1:10 - 2:00", "teacher": "Mr. Ford" },
+      { "name": "Public Speaking", "time": "2:05 - 2:55", "teacher": "Mrs. Green" },
+      { "name": "Intro to Code", "time": "3:00 - 3:50", "teacher": "Mr. Ford" }
+    ]
   },
   {
-    "id": "999001",
+    "id": "621000",
+    "password": "123",
+    "name": "Mr. Carter",
     "role": "teacher",
-    "name": "Mr. Stone",
-    "schedule": {
-      "1": { "subject": "Math 1", "teacher": "Mr. Stone", "room": "101", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "Math 2", "teacher": "Mr. Stone", "room": "101", "time": "9:00 AM - 9:50 AM" },
-      "3": { "subject": "Math 3", "teacher": "Mr. Stone", "room": "101", "time": "10:00 AM - 10:50 AM" }
-    }
+    "grade": 9,
+    "schedule": [
+      { "name": "Math", "time": "8:00 - 8:50", "teacher": "Grade 9" },
+      { "name": "Algebra II", "time": "8:55 - 9:45", "teacher": "Grade 10" },
+      { "name": "Pre-Calc", "time": "9:50 - 10:40", "teacher": "Grade 11" },
+      { "name": "AP Calculus", "time": "10:45 - 11:35", "teacher": "Grade 12" },
+      { "name": "Geometry", "time": "1:10 - 2:00", "teacher": "Grade 10" },
+      { "name": "AP Stats", "time": "3:00 - 3:50", "teacher": "Grade 12" },
+      { "name": "Study Time", "time": "2:05 - 2:55", "teacher": "-" },
+      { "name": "Lunch", "time": "12:10 - 12:40", "teacher": "-" },
+      { "name": "Free Period", "time": "12:45 - 1:05", "teacher": "-" }
+    ]
   },
   {
-    "id": "999002",
+    "id": "631200",
+    "password": "123",
+    "name": "Mr. Ford",
     "role": "teacher",
-    "name": "Ms. Rose",
-    "schedule": {
-      "1": { "subject": "English 1", "teacher": "Ms. Rose", "room": "102", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "English 2", "teacher": "Ms. Rose", "room": "102", "time": "9:00 AM - 9:50 AM" }
-    }
+    "grade": 10,
+    "schedule": [
+      { "name": "Biology", "time": "8:00 - 8:50", "teacher": "Grade 9" },
+      { "name": "Chemistry", "time": "8:55 - 9:45", "teacher": "Grade 10" },
+      { "name": "AP Biology", "time": "9:50 - 10:40", "teacher": "Grade 11" },
+      { "name": "AP Chemistry", "time": "10:45 - 11:35", "teacher": "Grade 12" },
+      { "name": "Web Dev", "time": "12:15 - 1:05", "teacher": "Grade 12" },
+      { "name": "Intro to Code", "time": "3:00 - 3:50", "teacher": "Grade 10" },
+      { "name": "Programming", "time": "2:05 - 2:55", "teacher": "Grade 10" },
+      { "name": "AP Physics", "time": "1:10 - 2:00", "teacher": "Grade 11" },
+      { "name": "Science Lab", "time": "11:40 - 12:10", "teacher": "Grade 10" }
+    ]
   },
   {
-    "id": "999003",
+    "id": "640001",
+    "password": "123",
+    "name": "Ms. Lee",
     "role": "teacher",
-    "name": "Dr. Reed",
-    "schedule": {
-      "1": { "subject": "Biology", "teacher": "Dr. Reed", "room": "103", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "Chemistry", "teacher": "Dr. Reed", "room": "103", "time": "9:00 AM - 9:50 AM" }
-    }
+    "grade": 11,
+    "schedule": [
+      { "name": "English", "time": "8:00 - 8:50", "teacher": "Grade 9" },
+      { "name": "English II", "time": "8:55 - 9:45", "teacher": "Grade 10" },
+      { "name": "Literature", "time": "9:50 - 10:40", "teacher": "Grade 11" },
+      { "name": "Creative Writing", "time": "10:45 - 11:35", "teacher": "Grade 12" },
+      { "name": "Drawing", "time": "12:15 - 1:05", "teacher": "Grade 10" },
+      { "name": "Design", "time": "1:10 - 2:00", "teacher": "Grade 11" },
+      { "name": "Photography", "time": "2:05 - 2:55", "teacher": "Grade 10" },
+      { "name": "Advanced Art", "time": "3:00 - 3:50", "teacher": "Grade 12" },
+      { "name": "Lunch", "time": "11:40 - 12:10", "teacher": "-" }
+    ]
   },
   {
-    "id": "999004",
+    "id": "651111",
+    "password": "123",
+    "name": "Mrs. Green",
     "role": "teacher",
-    "name": "Mrs. Clark",
-    "schedule": {
-      "1": { "subject": "US History", "teacher": "Mrs. Clark", "room": "104", "time": "8:00 AM - 8:50 AM" },
-      "2": { "subject": "World History", "teacher": "Mrs. Clark", "room": "104", "time": "9:00 AM - 9:50 AM" }
-    }
+    "grade": 12,
+    "schedule": [
+      { "name": "World History", "time": "8:00 - 8:50", "teacher": "Grade 9" },
+      { "name": "World Geography", "time": "8:55 - 9:45", "teacher": "Grade 10" },
+      { "name": "US History", "time": "9:50 - 10:40", "teacher": "Grade 11" },
+      { "name": "Economics", "time": "10:45 - 11:35", "teacher": "Grade 12" },
+      { "name": "Public Speaking", "time": "12:15 - 1:05", "teacher": "Grade 10" },
+      { "name": "Study Skills", "time": "1:10 - 2:00", "teacher": "Grade 10" },
+      { "name": "Debate", "time": "2:05 - 2:55", "teacher": "Grade 11" },
+      { "name": "Civics", "time": "3:00 - 3:50", "teacher": "Grade 12" },
+      { "name": "Lunch", "time": "11:40 - 12:10", "teacher": "-" }
+    ]
   }
 ]
